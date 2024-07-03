@@ -3,9 +3,10 @@
 > [!NOTE]
 > I'm the alt account of **@amolinarius** for TUMO Center of Creative Technologies.
 
-- 🔭 I’m currently working on a discordjs bot named BlueBot
-- 🌱 I’m currently learning Kotlin and Flutter
-- 👯 I’m looking to collaborate with **@VaroxDev** (I'm pretty sure he wants to be the best lol)
+- 🔭 I’m currently working on a minecraft server named [LushCraft](https://discord.gg/6ZShgC9HYy)
+- ❤️ I'm interested in Minecraft, pentesting and backend development
+- 🌱 I’m currently learning Flutter, Go and Rust
+- 👯 I’m looking to collaborate with **[furiousfurie](https://github.com/furiousfurie)** and **[Timo](https://github.com/timbo2040)**
 
 <h3>Languages</h3>
 <p>
@@ -37,9 +38,8 @@
 </p>
 
 <h3>Statistics</h3>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=amolinarius&show_icons=true&locale=en&theme=github_dark_dimmed" alt="stats"/>
-</p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=amolinarius&show_icons=true&locale=en&theme=github_dark_dimmed" alt="stats"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=amuller-tumo&show_icons=true&locale=en&theme=github_dark_dimmed" alt="stats"/></p>
 
 <h3>Profile Picture</h3>
 <p>
