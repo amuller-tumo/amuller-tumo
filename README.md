@@ -3,10 +3,10 @@
 > [!NOTE]
 > I'm the alt account of **@amolinarius** for TUMO Center of Creative Technologies.
 
-- 🔭 I’m currently working on a minecraft server named [LushCraft](https://discord.gg/6ZShgC9HYy)
+- 🔭 I’m currently working on a minecraft server named [ValorESS](https://discord.gg/valoress)
 - ❤️ I'm interested in Minecraft, pentesting and backend development
-- 🌱 I’m currently learning Flutter, Go and Rust
-- 👯 I’m looking to collaborate with **[furiousfurie](https://github.com/furiousfurie)** and **[Timo](https://github.com/timbo2040)**
+- 🌱 I’m currently learning Go, Rust and C
+- 👯 I’m looking to collaborate with **[furiousfurie](https://github.com/furiousfurie)**
 
 <h3>Languages</h3>
 <p>
@@ -21,9 +21,9 @@
 
 <h3>Currently learning...</h3>
 <p>
-    <a href="https://flutter.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
     <a href="https://go.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/></a>
     <a href="https://rust-lang.org"><img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" alt="rust" width="40" height="40"/></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 </p>
     
 <h3>Tools/frameworks</h3>
